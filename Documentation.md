@@ -42,9 +42,7 @@
 
 ### 5.4 Advanced Features
 
-### 5.5 Troubleshooting
-
-## API Documentation
+## API Documentation (if applicable)
 
 ### 6.1 Endpoints
 
@@ -52,7 +50,7 @@
 
 ### 6.3 Authentication and Authorization
 
-## Database Schema
+## Database Schema (if applicable)
 
 ### 7.1 Entity-Relationship Diagram
 
@@ -64,32 +62,14 @@
 
 ### 8.1 Test Plan
 
-### 8.2 Test Cases
+### 8.2 Test Results
 
-### 8.3 Test Results
+### 8.3 Known Issues and Limitations
 
 ## Deployment
 
 ### 9.1 Deployment Process
 
-### 9.2 Release Notes
-
-### 9.3 Known Issues and Limitations
-
-## Support and Maintenance
-
-### 10.1 Troubleshooting Guide
-
-### 10.2 Frequently Asked Questions (FAQs)
-
-### 10.3 Contact Information
-
-## Change Log
-
-### 11.1 Version History
-
-### 11.2 Change Summary
-
 ## Glossary
 
-### 12.1 Terms and Definitions
+### 10.1 Terms and Definitions
